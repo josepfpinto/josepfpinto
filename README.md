@@ -5,7 +5,7 @@
 
 
 <br>
-<p align="center"> I'm currently learning Python and I'm developing projects in JavaScript and Java</p>
+<p align="center"> I'm currently developing projects in Pyhton, Dart and Java</p>
 <br>
 
 
