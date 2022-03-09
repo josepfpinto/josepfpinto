@@ -14,15 +14,14 @@
 <p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/java-original.svg" alt="java" width="75" height="75"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/python.svg" alt="javascript" width="200" height="60"/>
+<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/python.svg" alt="javascript" height="65"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/dart.png" alt="javascript" height="60"/>
 </p>
 <p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/hibernate.png" alt="java" width="60" height="60"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/spring.png" alt="javascript" width="60" height="60"/>
-</p>
-<p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Selenium.svg" alt="mysql" width="70" height="70"/>
 </p>
 <p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -31,9 +30,8 @@
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/nodejs-original-wordmark.svg" alt="nodejs" width="85" height="85"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/flutter.png" alt="react" width="60" height="60"/>
 </p>
-<p align="left">
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Selenium.svg" alt="mysql" width="70" height="70"/>
-</p>
+
+## Certifications
 <p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/aws-certified-cloud-practitioner.png" alt="mysql" width="100" height="100"/>
 </p>
