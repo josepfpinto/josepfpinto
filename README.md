@@ -45,7 +45,7 @@
 
 #### Cloud
 <p align="left">
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Selenium.svg" alt="mysql" width="70" height="70"/>
+<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/aws-certified-cloud-practitioner.png" alt="mysql" width="70" height="70"/>
 </p>
 
 ## Statistics
