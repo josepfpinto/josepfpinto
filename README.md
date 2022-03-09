@@ -44,7 +44,9 @@
 </p>
 
 #### Cloud
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="83415445-3e60-451f-bc76-50110e0f4381" data-share-badge-host="https://www.credly.com"></div>
+<p align="left">
+<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Selenium.svg" alt="mysql" width="70" height="70"/>
+</p>
 
 ## Statistics
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=josepfpinto&color=orange" alt="josepfpinto" /></p>
