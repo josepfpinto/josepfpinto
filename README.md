@@ -1,46 +1,41 @@
 <p align="center">
-  <h1 align="center">  Welcome to my profile! 👋</h1>
-  <h2 align="center">  My name is José Pedro Pinto and I'm a Junior Fullstack Developer 😎️</h2> 
+  <h1 align="center"> José Pedro Pinto </h1>
 </p>
 
-
-<br>
-<p align="center"> I'm currently developing projects in Pyhton, Dart and Java</p>
-<br>
-
-
-## Technologies
-
-<p align="left">
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/java-original.svg" alt="java" width="75" height="75"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/python.svg" alt="javascript" height="65"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/dart.png" alt="javascript" height="60"/>
-</p>
-<p align="left">
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/hibernate.png" alt="java" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/spring.png" alt="javascript" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Selenium.svg" alt="mysql" width="70" height="70"/>
-</p>
-<p align="left">
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Tomcat-logo.svg" alt="nodejs" width="80" height="80"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/nodejs-original-wordmark.svg" alt="nodejs" width="85" height="85"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/flutter.png" alt="react" width="60" height="60"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/josepfpinto/">
+    <img src="https://img.shields.io/badge/jose pedro pinto-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  </br>
+  </br>
 </p>
 
-## Certifications
-<p align="left">
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/aws-certified-cloud-practitioner.png" alt="mysql" width="100" height="100"/>
+<p>
+  Hey there,
+
+  I'm Jose, a full stack developer in ETL and app development, based in Porto. 
+  I've played around in video production, post-production and digital communication for 12 years. And I'm currently focused on my developer skills, working with Python, Serverless and AWS in ETL; Dart, Flutter and Firebase in app development; and more recently with typescript and React in web development. Please, fill free to ping me if you have any interest in my profile.
+  </br>
+  </br>
 </p>
 
-## Statistics
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=josepfpinto&color=orange" alt="josepfpinto" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josepfpinto&show_icons=true" alt="josepfpinto" /></p>
+## Current Stack
 
-## Get in touch
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/josepfpinto)](https://github.com/josepfpinto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepfpinto/)](https://www.linkedin.com/in/josepfpinto/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josepfpinto@gmail.com)](mailto:josepfpinto@gmail.com)
+| Programming Languages |  |
+| :--- | ---: |
+| ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/dart-3962d0.svg?style=for-the-badge&logo=dart&logoColor=white) | ![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+| **Frameworks, Platforms and Libraries** | **Databases** |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Serverless](https://img.shields.io/badge/Serverless-black?style=for-the-badge&logo=serverless&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%230081CB?style=for-the-badge&logo=Flutter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%23404d59.svg?style=for-the-badge&logo=Selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3962d0.svg?style=for-the-badge&logo=Docker&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-%2300f.svg?style=for-the-badge&logo=amazon-DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-orange.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Hosting** | **Design**|
+| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/aws_cloud-%23000000.svg?style=for-the-badge&logo=amazon&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FFFFF.svg?style=for-the-badge&logo=Adobe&color=FF0000&logoColor=white) |
+
+## Current Stats
+
+|   ![Jose's's github activity graph](https://activity-graph.herokuapp.com/graph?username=josepfpinto&theme=rogue) |
+| :---: |
+
+| ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepfpinto&show_icons=true&theme=city_lights) | ![Jose's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josepfpinto&theme=city-lights) |
+| :---: | :---: |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepfpinto&theme=city_lights) |
+| :---: |
