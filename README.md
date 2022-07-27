@@ -20,7 +20,7 @@
 </p>
 
 ## Latest Work
-<a href="https://appdrinkee.com/" target="_blank">![DrinkeeAPP](https://img.shields.io/badge/Drinkee_app-F54B64.svg?style=for-the-badge&logo=flutter&logoColor=white)</a>
+<a href="https://appdrinkee.com/" target="_blank" rel="noreferrer">![DrinkeeAPP](https://img.shields.io/badge/Drinkee_app-F54B64.svg?style=for-the-badge&logo=flutter&logoColor=white)</a>
 </br>
 </br>
 
