@@ -29,7 +29,7 @@
 
 | Programming Languages |  |
 | :--- | ---: |
-| ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/dart-3962d0.svg?style=for-the-badge&logo=dart&logoColor=white) | ![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+| ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/dart-3962d0.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 | **Frameworks, Platforms and Libraries** | **Databases** |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Serverless](https://img.shields.io/badge/Serverless-black?style=for-the-badge&logo=serverless&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%230081CB?style=for-the-badge&logo=Flutter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%23404d59.svg?style=for-the-badge&logo=Selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3962d0.svg?style=for-the-badge&logo=Docker&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-%2300f.svg?style=for-the-badge&logo=amazon-DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-orange.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Hosting** | **Design**|
