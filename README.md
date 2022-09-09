@@ -13,7 +13,7 @@
 <p>
   Hey there,
 
-  I'm Jose, a full stack developer in ETL and app development, based in Porto. 
+  I'm Jose, a full stack developer with working experience in ETL and app development, based in Porto. 
   I've played around in video production, post-production and digital communication for 12 years. And I'm currently focused on my developer skills, working with Python, Serverless and AWS in ETL; Dart, Flutter and Firebase in app development; and more recently with typescript and React in web development. Please, fill free to ping me if you have any interest in my profile.
   </br>
   </br>
