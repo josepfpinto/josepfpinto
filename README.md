@@ -37,7 +37,7 @@
 
 ## Current Stats
 
-|   ![Jose's's github activity graph](https://activity-graph.herokuapp.com/graph?username=josepfpinto&theme=rogue) |
+| ![Jose's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josepfpinto&theme=react) |
 | :---: |
 
 | ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepfpinto&show_icons=true&theme=city_lights) | ![Jose's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josepfpinto&theme=city-lights) |
