@@ -14,13 +14,13 @@
   Hey there,
 
   I'm Jose, a full stack developer with working experience in ETL and app development, based in Porto. 
-  I've played around in video production, post-production and digital communication for 12 years. And I'm currently focused on my developer skills, working with Python, Serverless and AWS in ETL; Dart, Flutter and Firebase in app development; and more recently with typescript and React in web development. Please, fill free to ping me if you have any interest in my profile.
+  I've played around in video production, post-production and digital communication for 12 years. And I'm currently focused on my developer skills, working with Python (PySpark, Pandas), Javascript/Typescript (React), AWS (API Gateway, Lambda, S3, Amplify, ...), Serverless Framework and SQL. Please, fill free to ping me if you have any interest in my profile.
   </br>
   </br>
 </p>
 
-## Latest Work
-<a href="https://appdrinkee.com/" target="_blank" rel="noreferrer" target="_blank">![DrinkeeAPP](https://img.shields.io/badge/Drinkee_app-F54B64.svg?style=for-the-badge&logo=flutter&logoColor=white)</a>
+## Working on
+<a href="https://github.com/josepfpinto/tfyBot" target="_blank" rel="noreferrer" target="_blank">![TYF Bot](https://img.shields.io/badge/TFY_Bot-F54B64?style=for-the-badge&logo=chatbot&logoColor=white)</a>
 </br>
 </br>
 
