@@ -13,8 +13,13 @@
 <p>
   Hey there,
 
-  I'm Jose, a full stack developer with working experience in ETL and app development, based in Porto. 
-  I've played around in video production, post-production and digital communication for 12 years. And I'm currently focused on my developer skills, working with Python (PySpark, Pandas), Javascript/Typescript (React), AWS (API Gateway, Lambda, S3, Amplify, ...), Serverless Framework and SQL. Please, fill free to ping me if you have any interest in my profile.
+  Hey there, I'm Jose, a seasoned full stack developer based in Porto, Portugal. With over 12 years of experience in video production, post-production, and digital communication, I've transitioned my focus to honing my developer skills.
+
+Currently, I'm deeply engaged in projects involving AWS stack (API Gateway, Lambda, S3, Amplify, Amplify UI, AppSync...), alongside technologies like GraphQL, React (Redux, React Router, Styled Components, ...), TypeScript and even Figma for creating the components look. I've also delved into the fascinating area of generative AI by working with LangChain, LangGraph, and LLMS (including GPT).
+
+From my past expertise in ETL and app development, I'm also proficient in Python, Serverless Framework, SQL, ...
+
+Feel free to reach out if you're interested in collaborating or discussing opportunities!
   </br>
   </br>
 </p>
