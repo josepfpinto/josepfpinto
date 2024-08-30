@@ -13,11 +13,9 @@
 <p>
   Hey there,
 
-  Hey there, I'm Jose, a seasoned full stack developer based in Porto, Portugal. With over 12 years of experience in video production, post-production, and digital communication, I've transitioned my focus to honing my developer skills.
+  Hey there, I'm Jose, a seasoned full stack developer based in Porto, Portugal. With over 12 years of experience in video production, post-production, digital communication and latelly web/app development.
 
-Currently, I'm deeply engaged in projects involving AWS stack (API Gateway, Lambda, S3, Amplify, Amplify UI, AppSync...), alongside technologies like GraphQL, React (Redux, React Router, Styled Components, ...), TypeScript and even Figma for creating the components look. I've also delved into the fascinating area of generative AI by working with LangChain, LangGraph, and LLMS (including GPT).
-
-From my past expertise in ETL and app development, I'm also proficient in Python, Serverless Framework, SQL, ...
+Currently, I'm deeply engaged in projects involving Generative AI (AWS Bedrock, LangChain, LangGraph, LLMs), AWS stack (API Gateway, Lambda, S3, Amplify, Amplify UI, AppSync...), alongside technologies like GraphQL, React (Redux, React Router, Styled Components, React Flow, ...), TypeScript, Python and even Figma for creating the components look.
 
 Feel free to reach out if you're interested in collaborating or discussing opportunities!
   </br>
